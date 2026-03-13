@@ -35,5 +35,5 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/ExodusOfGraf?style=for-the-badge&color=21262d&logo=github&logoColor=white" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ExodusOfGraf?style=for-the-badge&color=21262d&logo=github&logoColor=white" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/languages/count/ExodusOfGraf?style=for-the-badge&color=21262d&logo=github&logoColor=white" alt="GitHub Languages" />
+  <img src="https://komarev.com/ghpvc/?username=ExodusOfGraf&style=for-the-badge&color=21262d&label=VIEWS" alt="Profile Views" />
 </div>
